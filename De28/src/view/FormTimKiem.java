@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JPanel.java to edit this template
  */
-package view28;
+package view;
 
-import controller28.IOFile;
+import controller.IOFile;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -12,8 +12,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 import javax.swing.table.DefaultTableModel;
-import model28.PhongTH;
-import model28.BangSX;
+import model.PhongTH;
+import model.BangSX;
 
 /**
  *

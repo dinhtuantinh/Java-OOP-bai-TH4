@@ -2,18 +2,18 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JPanel.java to edit this template
  */
-package view28;
+package view;
 
 //import controller.DienThoaiException;
-import controller28.IOFile;
-import controller28.SoLuongException;
-import controller28.TrongException;
+import controller.IOFile;
+import controller.SoLuongException;
+import controller.TrongException;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
-import model28.PhongTH;
+import model.PhongTH;
 public class FormPhongTH extends javax.swing.JPanel {
 
     DefaultTableModel tm;
